@@ -1,0 +1,9 @@
+.top{
+  display: flex;
+  justify-content: space-between;
+}
+.menu{
+  display: flex;
+  /* text-decoration: none; */
+  list-style: none;
+}
